@@ -7,9 +7,7 @@
 
 - 🔭 I'm currently working on **Erebix** — an AI-powered fitness app built with React Native, Node.js & PostgreSQL
 
-- 🌱 I'm currently learning **React js and React native**
-
-- 👨‍💻 All of my projects are available at [https://ghouris-portfolio.netlify.app/](https://ghouris-portfolio.netlify.app/)
+- 🌱 I'm currently learning **Python**
 
 - 💬 Ask me about **Logic's**
 
