@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Farzain ghouri</h1>
 <h3 align="center">A passionate web and app developer from PAKISTAN</h3>
+<p align="center"><a href="https://farzain-ghouri-portfolio.vercel.app" target="_blank"><b>🌐 Visit My Portfolio</b></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzainghouri&label=Profile%20views&color=0e75b6&style=flat" alt="farzainghouri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzainghouri&theme=onedark&no-frame=true&no-bg=false" alt="farzainghouri" /></a> </p>
 
 - 🔭 I'm currently working on **Erebix** — an AI-powered fitness app built with React Native, Node.js & PostgreSQL
+
+- 🌐 Check out my portfolio **[farzain-ghouri-portfolio.vercel.app](https://farzain-ghouri-portfolio.vercel.app)**
 
 - 🌱 I'm currently learning **Python**
 
